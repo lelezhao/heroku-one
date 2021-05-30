@@ -7,19 +7,19 @@
 	"env": {
 		"DB_Host": {
 			"description": "Database Host",
-			"value": "revert"
+			"value": "frps.zhaolele.top"
 		},
 		"DB_User": {
 			"description": "Database User",
-			"value": "revert"
+			"value": "cloudone"
 		},
 		"DB_Password": {
 			"description": "Database Password",
-			"value": "revert"
+			"value": "mysql211"
 		},
 		"DB_Name": {
 			"description": "Database Name",
-			"value": "revert"
+			"value": "Cloudreve"
 		}
 	},
     "stack": "container"
