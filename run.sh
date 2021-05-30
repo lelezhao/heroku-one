@@ -5,7 +5,7 @@ cat <<-EOF > /root/cloudreve/mycloudreve.ini
 ; 运行模式
 Mode = master
 ; 监听端口
-Listen = :${PORT}
+Listen = :9090
 ; 是否开启 Debug
 Debug = false
 ; Session 密钥, 一般在首次启动时自动生成
