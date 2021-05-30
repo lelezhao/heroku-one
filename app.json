@@ -1,0 +1,26 @@
+{
+    "name": "Cloudreve-Heroku",
+    "description": "Cloureve on Heroku with Redis",
+	"repository": "https://github.com/AishaFisher/cloudreve-heroku.git",
+    "website": "https://heroku.com/",
+    "keywords": ["cloudreve", "netdisc", "share"],
+	"env": {
+		"DB_Host": {
+			"description": "Database Host",
+			"value": "revert"
+		},
+		"DB_User": {
+			"description": "Database User",
+			"value": "revert"
+		},
+		"DB_Password": {
+			"description": "Database Password",
+			"value": "revert"
+		},
+		"DB_Name": {
+			"description": "Database Name",
+			"value": "revert"
+		}
+	},
+    "stack": "container"
+}
